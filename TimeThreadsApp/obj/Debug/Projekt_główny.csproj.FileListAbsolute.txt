@@ -1,0 +1,7 @@
+C:\Users\Wojciech\Desktop\Krzysiek_Wojciech_ProjektC#\Projekt_główny\Projekt_główny\bin\Debug\Projekt_główny.exe.config
+C:\Users\Wojciech\Desktop\Krzysiek_Wojciech_ProjektC#\Projekt_główny\Projekt_główny\bin\Debug\Projekt_główny.exe
+C:\Users\Wojciech\Desktop\Krzysiek_Wojciech_ProjektC#\Projekt_główny\Projekt_główny\bin\Debug\Projekt_główny.pdb
+C:\Users\Wojciech\Desktop\Krzysiek_Wojciech_ProjektC#\Projekt_główny\Projekt_główny\obj\Debug\Projekt_główny.csprojAssemblyReference.cache
+C:\Users\Wojciech\Desktop\Krzysiek_Wojciech_ProjektC#\Projekt_główny\Projekt_główny\obj\Debug\Projekt_główny.csproj.CoreCompileInputs.cache
+C:\Users\Wojciech\Desktop\Krzysiek_Wojciech_ProjektC#\Projekt_główny\Projekt_główny\obj\Debug\Projekt_główny.exe
+C:\Users\Wojciech\Desktop\Krzysiek_Wojciech_ProjektC#\Projekt_główny\Projekt_główny\obj\Debug\Projekt_główny.pdb
